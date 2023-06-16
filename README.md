@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot/rating.png)
-![](./Screenshot/rating2.png)
+![](/rating.png)
+![](/rating2.png)
 
 ### Links
 
